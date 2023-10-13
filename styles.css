@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+h1, p{
+    text-align: center;
+    margin: 2rem;
+    width: 50%;
+}
+
+button{
+    width: 8rem;
+    height: 4rem;
+    border-radius: 25%;
+    background-color: bisque;
+    font-size: 30px;
+    color:black;
+}
+
+button:hover{
+    background-color: aquamarine;
+}

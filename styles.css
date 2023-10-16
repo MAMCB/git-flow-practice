@@ -32,8 +32,10 @@ button:hover{
     background-color: aquamarine;
 }
 
-p{
-    font-family: 'Courier New', Courier, monospace;
-    color:blueviolet;
-    font-size: 20px;
+
+
+.home {
+    background-image: rgb(124, 124, 180);
+    width: 50%;
+    margin: auto;
 }

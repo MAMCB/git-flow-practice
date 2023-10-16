@@ -31,3 +31,13 @@ button{
 button:hover{
     background-color: aquamarine;
 }
+
+footer{
+    background-color: aliceblue;
+    margin: 5rem;
+    display: flex;
+    justify-content: space-around;
+}
+.participants ul{
+    padding: 1rem;
+}

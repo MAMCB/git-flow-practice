@@ -31,3 +31,9 @@ button{
 button:hover{
     background-color: aquamarine;
 }
+
+.home {
+    background-image: rgb(124, 124, 180);
+    width: 50%;
+    margin: auto;
+}

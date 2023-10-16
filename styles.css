@@ -41,3 +41,11 @@ footer{
 .participants ul{
     padding: 1rem;
 }
+
+
+
+.home {
+    background-image: rgb(124, 124, 180);
+    width: 50%;
+    margin: auto;
+}

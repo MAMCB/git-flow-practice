@@ -31,3 +31,9 @@ button{
 button:hover{
     background-color: aquamarine;
 }
+
+.p{
+    font-family: 'Courier New', Courier, monospace;
+    color:blueviolet;
+    font-size: 20px;
+}
